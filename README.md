@@ -1,7 +1,7 @@
 ![This is an alt text.](/images/QuickRecipe%20AI%20Logo.png "QuickRecipe AI Application logo")
 # QuickRecipe AI - AI Recipe Generator 🍳📸
 
-An innovative Flutter mobile application that transforms food photos into detailed recipes using AI vision technology. Simply snap a picture of any food / ingredient, and get an instant, detailed recipe to recreate it at home.
+An innovative mobile application that transforms food photos into detailed recipes using AI vision technology. Simply snap a picture of any food / ingredient, and get an instant, detailed recipe to recreate it at home.
 
 ## Features
 
