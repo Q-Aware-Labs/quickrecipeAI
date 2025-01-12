@@ -21,9 +21,9 @@ An innovative Flutter mobile application that transforms food photos into detail
 ## How It Works
 
 1. Open the app and access the camera interface
-2. Take a clear photo of any prepared dish or meal
+2. Take a clear photo of any food or ingredient
 3. The AI analyzes the image using GPT-4 Vision Preview
-4. A detailed, customized recipe is generated based on the analysis
+4. After clicking the 'Generate' button, a detailed, customized recipe is generated based on the analysis
 5. Save or share the recipe for future use
 
 ## Installation
@@ -31,8 +31,8 @@ An innovative Flutter mobile application that transforms food photos into detail
 You can access the demo app via this link: [QuickRecipe AI](https://quick-recipe-a-i-oc02bb.flutterflow.app/)
 
 ** Note: 
-* For full access to main functionality it may be neccessary to create an account.
-* For better usability it's recommended to access via mobile phone or if desktop, use your browser on mobile scale.
+* For full access to main functionalities it may be neccessary to create an account.
+* For better usability it's recommended to access via mobile phone or if desktop, use your desktop browser on mobile scale.
   
 ## Future Enhancements
 
