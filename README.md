@@ -27,7 +27,7 @@ An innovative Flutter mobile application that transforms food photos into detail
 
 ## Installation
 
-You can access the app via this link: [QuickRecipe AI] (https://quick-recipe-a-i-oc02bb.flutterflow.app/)
+You can access the app via this link: [QuickRecipe AI](https://quick-recipe-a-i-oc02bb.flutterflow.app/)
 
 ## Future Enhancements
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-For questions and support, please open an issue in the repository or contact [your-email@domain.com].
+For questions and support, please open an issue in the repository or contact [antony.garcia@qawarelabs.com].
