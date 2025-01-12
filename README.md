@@ -27,27 +27,7 @@ An innovative Flutter mobile application that transforms food photos into detail
 
 ## Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/food-vision-recipe-generator
-
-# Navigate to project directory
-cd food-vision-recipe-generator
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
-```
-
-## Configuration
-
-To use this application, you'll need:
-
-1. Flutter development environment set up
-2. OpenAI API key for GPT-4 Vision Preview
-3. FlutterFlow account (for development)
+You can access the app via this link: [QuickRecipe AI] (https://quick-recipe-a-i-oc02bb.flutterflow.app/)
 
 ## Future Enhancements
 
