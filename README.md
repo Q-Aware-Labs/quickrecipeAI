@@ -27,8 +27,12 @@ An innovative Flutter mobile application that transforms food photos into detail
 
 ## Installation
 
-You can access the app via this link: [QuickRecipe AI](https://quick-recipe-a-i-oc02bb.flutterflow.app/)
+You can access the demo app via this link: [QuickRecipe AI](https://quick-recipe-a-i-oc02bb.flutterflow.app/)
 
+** Note: 
+* It's recommended to use your browser on mobile scale.
+* For full access to main functionality it may be neccessary to create an account.
+  
 ## Future Enhancements
 
 - Recipe saving and organization features
