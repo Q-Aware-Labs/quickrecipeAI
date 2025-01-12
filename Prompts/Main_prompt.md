@@ -1,6 +1,6 @@
-This is is the prompt used after getting the user image (ingredient):
+This is the prompt used after getting the user image (ingredient/food):
 
-In this prompt we ask the model for a recipe
+In this prompt we ask the model for a recipe.
 
 Prompt:
 ```
