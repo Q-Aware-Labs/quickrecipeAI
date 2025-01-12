@@ -1,4 +1,4 @@
-# Food Vision Recipe Generator 🍳📸
+# QuickRecipe AI - AI Recipe Generator 🍳📸
 
 An innovative Flutter mobile application that transforms food photos into detailed recipes using AI vision technology. Simply snap a picture of any dish, and get an instant, detailed recipe to recreate it at home.
 
