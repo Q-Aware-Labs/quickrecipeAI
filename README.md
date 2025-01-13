@@ -15,7 +15,7 @@ An innovative mobile application that transforms food photos into detailed recip
 
 - **Frontend Framework**: FlutterFlow
 - **AI Vision Model**: OpenAI GPT-4 Vision Preview
-- **Camera Integration**: Native device camera access
+- **Firebase**: Authentication and database
 - **Platform**: iOS and Android
 
 ## How It Works
