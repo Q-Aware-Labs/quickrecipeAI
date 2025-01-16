@@ -28,12 +28,13 @@ An innovative mobile application that transforms food photos into detailed recip
 
 ## Installation
 
+** Note: 
+
+* As this is a demo app, resources are limited. For full access to main functionalities it may be neccessary to ask for access (send me an email) and create an account.
+* For better usability it's recommended to access via mobile phone or if desktop, use your desktop browser on mobile scale.
+
 You can access the demo app via this link: [QuickRecipe AI](https://quick-recipe-a-i-oc02bb.flutterflow.app/)
 
-** Note: 
-* For full access to main functionalities it may be neccessary to create an account.
-* For better usability it's recommended to access via mobile phone or if desktop, use your desktop browser on mobile scale.
-  
 ## Future Enhancements
 
 - Recipe saving and organization features
