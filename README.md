@@ -6,7 +6,7 @@ An innovative mobile application that transforms food photos into detailed recip
 ## Features
 
 - **Instant Recipe Generation**: Take a photo of any dish and receive a complete recipe within seconds
-- **AI-Powered Vision Analysis**: Leverages OpenAI's GPT-4 Vision Preview model for accurate food recognition
+- **AI-Powered Vision Analysis**: Leverages OpenAI's gpt-4-turbo-2024-04-09 model for accurate food recognition
 - **User-Friendly Interface**: Built with FlutterFlow for a smooth and intuitive user experience
 - **Detailed Recipe Output**: Includes ingredients, step-by-step instructions, and cooking tips
 - **Real-Time Processing**: Get results immediately after taking a photo
@@ -14,7 +14,7 @@ An innovative mobile application that transforms food photos into detailed recip
 ## Technology Stack
 
 - **Frontend Framework**: FlutterFlow
-- **AI Vision Model**: OpenAI GPT-4 Vision Preview
+- **AI Vision Model**: OpenAI gpt-4-turbo-2024-04-09
 - **Firebase**: Authentication and database
 - **Platform**: iOS and Android
 
@@ -22,7 +22,7 @@ An innovative mobile application that transforms food photos into detailed recip
 
 1. Open the app and access the camera interface
 2. Take a clear photo of any food or ingredient
-3. The AI analyzes the image using GPT-4 Vision Preview
+3. The AI analyzes the image using gpt-4-turbo-2024-04-09
 4. After clicking the 'Generate' button, a detailed, customized recipe is generated based on the analysis
 5. Save or share the recipe for future use
 
@@ -43,10 +43,6 @@ You can access the demo app via this link: [QuickRecipe AI](https://quick-recipe
 - Ingredient substitution suggestions
 - Social sharing capabilities
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
@@ -54,7 +50,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Acknowledgments
 
 - Built with FlutterFlow
-- Powered by OpenAI's GPT-4 Vision Preview
+- Powered by OpenAI's gpt-4-turbo-2024-04-09
 - Inspired by the need to make cooking more accessible and enjoyable for everyone
 
 ## Contact
